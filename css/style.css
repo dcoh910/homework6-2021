@@ -158,8 +158,7 @@ header{
    justify-content: space-around;
  }
  .price{
-  position: absolute;
-  bottom: 0;
+  align-self: flex-end;
  }
 .package{
   border: 2px #45ADAD solid;
